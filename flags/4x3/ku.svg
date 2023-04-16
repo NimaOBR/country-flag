@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-iPhone_14_Pro_Max_1);
+      }
+
+      .cls-2 {
+        fill: #e11e22;
+      }
+
+      .cls-3 {
+        fill: #258740;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-iPhone_14_Pro_Max_1">
+      <rect width="400" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_14_Pro_Max_1" data-name="iPhone 14 Pro Max – 1" class="cls-1">
+    <rect class="cls-4" width="400" height="400"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-2" width="400" height="136"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-3" width="400" height="136" transform="translate(0 264)"/>
+    <image id="Untitled-2" width="298" height="298" transform="translate(51 60)" xlink:href="Untitled-2.png"/>
+  </g>
+</svg>
